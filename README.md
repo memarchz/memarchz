@@ -1,73 +1,52 @@
 <div align="center">
 
-# Hey, I'm Teetuch 👋
+<sub>EST. IN CURIOSITY   ·   BUILT WITH INTENTION</sub>
+memarchz.
+Quiet luxury. Loud ideas.
+<sub>SOFTWARE DEVELOPMENT   /   CLOUD   /   CREATIVE TECHNOLOGY</sub>
 
-### `Building things that live beyond localhost.`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161616&height=2&section=header" width="75%" alt="divider" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Backend+%7C+Cloud;Turning+ideas+into+real-world+systems;Always+learning.+Always+shipping." alt="Typing animation" />
 
-![Profile views](https://komarev.com/ghpvc/?username=memarchz&style=flat-square&color=0e75b6)
+
+
+An appreciation for clean architecture, considered details, and things built to last.
+
+01 / THE PERSON    02 / THE CRAFT    03 / THE NUMBERS
+</div>
+
+
+01   /   The person
+A developer with an eye for detail and a curiosity for how things work. Interested in building thoughtful digital experiences, from the systems behind them to the interfaces people use.
+Less noise. More meaning.
+
+
+02   /   The craft
+Areas of interest
+Backend engineering · Cloud architecture · AI integration · Web development
+Tools & technologies
+Python   TypeScript   JavaScript   Node.js   Next.js   PostgreSQL   Docker   AWS   Git
+<sub>A curated selection of technologies I work with or explore.</sub>
+
+03   /   The numbers
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=memarchz&show_icons=true&hide_border=true&bg_color=00000000&title_color=8A2633&text_color=8A8A8A&icon_color=B59A68&include_all_commits=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memarchz&layout=compact&hide_border=true&bg_color=00000000&title_color=8A2633&text_color=8A8A8A" height="165" alt="Top languages" />
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=memarchz&label=PROFILE%20VISITS&color=8A2633&style=flat-square" alt="Profile visits" />
 
 </div>
 
----
-
-### `> whoami`
-
-```yaml
-name: Teetuch
-focus:
-  - Software Engineering
-  - Backend Development
-  - Cloud Architecture
-  - AI Integration
-mindset: "Build. Break. Learn. Repeat."
-```
-
-I enjoy turning complex problems into clean, scalable solutions — from APIs and databases to cloud infrastructure and AI-powered workflows.
-
-### `> tech --stack`
-
-**Languages & Web**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Cloud, Data & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<sub>Tools I'm working with or exploring — not a claim of mastery.</sub>
-
-### `> currently_exploring`
-
-```text
-[+] Scalable backend systems
-[+] Cloud-native architecture
-[+] OCR + self-hosted AI workflows
-[+] CI/CD, testing & automation
-```
-
-### `> github --stats`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=memarchz&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memarchz&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</div>
-
----
 
 <div align="center">
 
-**`Code with purpose. Build with curiosity.`**
+<sub>GOOD WORK TAKES TIME.</sub>
 
-<sub>Thanks for stopping by. 🚀</sub>
+Designed with restraint. Developed with purpose.
 
+<sub>© memarchz   ·   ALWAYS IN PROGRESS</sub>
 </div>
